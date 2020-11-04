@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="animalcellTextBook" size="100.000000 79.271706" />
+    <ImageTarget name="animalCellRaven" size="100.000000 85.190842" />
+    <ImageTarget name="UrinarySystemRaven" size="100.000000 75.000000" />
+    <ImageTarget name="nephronRaven" size="100.000000 75.000000" />
+    <ImageTarget name="LocationofnephroninKidney-Raven" size="100.000000 75.000000" />
+    <ImageTarget name="KidneyRaven" size="100.000000 75.000000" />
+    <ImageTarget name="DigestiveSystemRaven" size="100.000000 133.300003" />
+    <ImageTarget name="UrineFormationTextBook" size="100.000000 75.000000" />
+    <ImageTarget name="UltrafiltrationTextBook" size="100.000000 75.000000" />
+    <ImageTarget name="nephronTextBook" size="100.000000 75.000000" />
+    <ImageTarget name="LocationofnephroninKidneyTextBook" size="100.000000 75.000000" />
+    <ImageTarget name="KidneyTextBook" size="100.000000 91.408112" />
+    <ImageTarget name="FullUrinarySystemTextBook" size="100.000000 75.000000" />
+    <ImageTarget name="FullDigestiveSystemTextBook" size="100.000000 75.000000" />
+    <ImageTarget name="BucalcavityTextBook" size="100.000000 75.000000" />
+  </Tracking>
+</QCARConfig>
